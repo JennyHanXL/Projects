@@ -1,3 +1,8 @@
+#Using machine learning to predict Active vs Inactive customers
+#https://trachack.com/challenge-20-1/
+
+
+
 import argparse
 
 from pyspark.sql import SparkSession
